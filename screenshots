@@ -1,5 +1,0 @@
-## Output
-
-The screenshot below shows the network sniffer capturing live packets and displaying the source IP, destination IP, protocol, and port numbers.
-
-![Network Sniffer Output](screenshots/output.png)
