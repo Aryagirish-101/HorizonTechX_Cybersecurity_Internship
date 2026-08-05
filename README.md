@@ -29,11 +29,7 @@ pip install -r requirements.txt
 ```bash
 sudo python3 network_sniffer.py
 ```
-## Output
 
-The screenshot below shows the network sniffer capturing live packets.
-
-![Network Sniffer Output](screenshots/output.png)
 
 ## Author
 
