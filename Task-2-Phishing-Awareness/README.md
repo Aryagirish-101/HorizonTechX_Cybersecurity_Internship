@@ -1,26 +1,37 @@
 # Phishing Awareness Training
 
-A practical cybersecurity awareness project designed to help users identify, avoid, and report phishing attacks.
+A practical cybersecurity awareness project focused on identifying, preventing, and safely responding to phishing attacks.
 
-## Project Overview
+## Overview
 
-Phishing is a social engineering technique used to trick users into revealing sensitive information, opening malicious attachments, or visiting fraudulent websites.
-
-This project provides a structured awareness guide covering common phishing techniques, warning signs, safe responses, prevention practices, and a knowledge-check quiz.
+This project provides structured phishing awareness training covering common phishing techniques, warning signs, safe response procedures, prevention practices, and a knowledge-check quiz.
 
 ## Objectives
 
-- Understand the fundamentals of phishing
-- Identify common phishing techniques
-- Recognize suspicious emails, links, and attachments
-- Understand common social engineering indicators
+- Understand common phishing techniques
+- Identify suspicious emails, links, and attachments
+- Recognize social engineering indicators
 - Learn safe responses to suspected phishing
-- Promote secure authentication and reporting practices
+- Understand phishing prevention best practices
+- Promote secure reporting practices
 
-## Project Contents
+## Topics Covered
+
+- Email Phishing
+- Spear Phishing
+- Smishing
+- Vishing
+- Clone Phishing
+- Suspicious links and attachments
+- Credential and financial information requests
+- Social engineering techniques
+- Phishing prevention
+- Incident reporting
+
+## Project Files
 
 ```text
-HorizonTechX_PhishingAwareness/
+Task-2-Phishing-Awareness/
 │
 ├── PHISHING_AWARENESS.md
 │
@@ -33,64 +44,40 @@ HorizonTechX_PhishingAwareness/
 └── README.md
 ```
 
-## Topics Covered
-
-### Phishing Types
-- Email Phishing
-- Spear Phishing
-- Smishing
-- Vishing
-- Clone Phishing
-
-### Phishing Indicators
-- Suspicious sender addresses
-- Urgent or threatening language
-- Suspicious URLs
-- Unexpected attachments
-- Credential requests
-- Financial requests
-
-### Safe Response
-
-The project follows a simple security approach:
-
-**STOP → CHECK → VERIFY → REPORT**
-
-Users should avoid interacting with suspicious messages and verify unusual requests through trusted channels.
-
 ## Practical Example
 
 A simulated phishing email is included in:
 
 `docs/sample_phishing_email.md`
 
-The example demonstrates how urgency, suspicious senders, credential requests, and other social engineering techniques can be used to manipulate users.
+The example demonstrates common phishing indicators such as urgency, suspicious senders, credential requests, and social engineering.
 
 ## Knowledge Check
 
-A five-question knowledge check is included in the main awareness guide to evaluate understanding of common phishing indicators and safe responses.
+The main awareness guide includes a five-question quiz covering phishing indicators and safe response procedures.
 
-## Security Best Practices
+## Security Approach
 
-- Use strong and unique passwords
-- Enable Multi-Factor Authentication (MFA)
-- Keep software updated
-- Verify unexpected requests independently
-- Avoid suspicious links and attachments
-- Never share passwords or OTPs
-- Report suspected phishing attempts
+When dealing with a suspicious message:
 
-## Technologies & Tools
+**STOP → CHECK → VERIFY → REPORT**
 
-- Markdown
+Never provide credentials, OTPs, financial information, or other sensitive data through an unverified request.
+
+## Tools
+
 - Visual Studio Code
 - Kali Linux
-- Git & GitHub
+- Git
+- GitHub
+- Markdown
 
 ## Disclaimer
 
-This project is intended for cybersecurity awareness and educational purposes only. The phishing examples are simulated and do not contain real credential-harvesting infrastructure or malicious links.
+This project is created for educational and authorized cybersecurity awareness purposes. The phishing examples are simulated and do not contain real credential-harvesting infrastructure or malicious links.
 
 ## Author
 
 **Arya Girishkumar**
+
+B.Sc. Computer Science with Cyber Security
