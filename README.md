@@ -13,11 +13,10 @@ All internship tasks are organized into individual directories with relevant sou
 ```text
 HorizonTechX_Cybersecurity_Internship/
 │
-├── Task-1/
+├── Task-1-Basic-Network-Sniffer/
 ├── Task-2-Phishing-Awareness/
-├── Task-3/
-├── Task-4/
-├── Task-5/
+├── Task-3-secure-Coding-Awarness/
+├── Task-4 Network-Intrusion-Detection/
 │
 └── README.md
 ```
