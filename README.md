@@ -15,8 +15,8 @@ HorizonTechX_Cybersecurity_Internship/
 │
 ├── Task-1-Basic-Network-Sniffer/
 ├── Task-2-Phishing-Awareness/
-├── Task-3-secure-Coding-Awarness/
-├── Task-4 Network-Intrusion-Detection/
+├── Task-3-Secure-Coding-Review/
+├── Task-4-Network-Intrusion-Detection/
 │
 └── README.md
 ```
